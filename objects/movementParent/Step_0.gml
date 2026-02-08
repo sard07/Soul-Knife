@@ -12,6 +12,7 @@ var movement_friction = 0.25;
 var movement_x = key_right - key_left;
 var movement_y = key_down - key_up;
 
+
 // this is for fixing vectoring issue
 var input_total = point_distance(0, 0, movement_x, movement_y);
 if (input_total > 0) {
@@ -41,4 +42,9 @@ if (movement_y != 0) {
 }
 hspeed = hsp;
 vspeed = vsp;
+if(speed > 3)
+{
+	speed = 3;
+}
 
+show_debug_message(speed)
