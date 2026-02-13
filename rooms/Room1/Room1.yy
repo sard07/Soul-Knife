@@ -94,8 +94,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Soul Knife Demo",
-    "path":"Soul Knife Demo.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

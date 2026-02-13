@@ -6,8 +6,8 @@
   "name":"o_solid",
   "overriddenProperties":[],
   "parent":{
-    "name":"Soul Knife Demo",
-    "path":"Soul Knife Demo.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -12,8 +12,8 @@
   "name":"originalPlayer",
   "overriddenProperties":[],
   "parent":{
-    "name":"Soul Knife Demo",
-    "path":"Soul Knife Demo.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":{
     "name":"movementParent",
