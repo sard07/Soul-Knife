@@ -15,7 +15,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.3.217",
+    "IDEVersion":"2024.14.2.213",
   },
   "name":"Soul Knife Demo",
   "resources":[
@@ -24,8 +24,10 @@
     {"id":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},},
     {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"originalPlayer","path":"objects/originalPlayer/originalPlayer.yy",},},
+    {"id":{"name":"SoulKnife","path":"objects/SoulKnife/SoulKnife.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"s_solid","path":"sprites/s_solid/s_solid.yy",},},
+    {"id":{"name":"SoulKnifeSprite","path":"sprites/SoulKnifeSprite/SoulKnifeSprite.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
   ],
